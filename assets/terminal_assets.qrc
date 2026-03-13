@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/assets/xterm">
+    <file>xterm/xterm.css</file>
+    <file>xterm/xterm.js</file>
+    <file>xterm/xterm-addon-fit.js</file>
+  </qresource>
+</RCC>
