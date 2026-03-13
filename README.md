@@ -2,6 +2,8 @@
 
 SysAdmin-focused, cross-platform terminal workstation.
 
+![GUI](/3tty.png)
+
 ## Highlights
 
 - Local shell profiles + SSH profiles
